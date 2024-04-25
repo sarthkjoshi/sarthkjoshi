@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [sarthakjoshi.vercel.app](sarthakjoshi.vercel.app)
+- 👨‍💻 All of my projects are available at [sarthakjoshi.vercel.app](www.sarthakjoshi.vercel.app)
 
 - 💬 Ask me about **React.js, Next.js**
 
