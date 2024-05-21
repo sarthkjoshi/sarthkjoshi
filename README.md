@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [sarthakjoshi.vercel.app](www.sarthakjoshi.vercel.app)
+- 👨‍💻 All of my projects are available at [sarthakjoshi.vercel.app](https://sarthakjoshi.vercel.app/)
 
-- 💬 Ask me about **React.js, Next.js**
+- 💬 Ask me about **React.js, Next.js, Node.js, Express.js**
 
 - 📫 How to reach me **sarthakjoshi.cs18@gmail.com**
 
